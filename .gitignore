@@ -1,9 +1,11 @@
 # Snowflake configuration files (contains sensitive account info)
 config.json
 
-# RSA private key (DO NOT COMMIT)
+# RSA keys (DO NOT COMMIT - both public and private)
 rsa_key.p8
+rsa_key.pub
 *.p8
+*.pub
 
 # Python
 __pycache__/
