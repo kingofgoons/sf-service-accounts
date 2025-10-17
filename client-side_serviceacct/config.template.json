@@ -1,0 +1,9 @@
+{
+  "account": "YOUR_ACCOUNT_IDENTIFIER",
+  "user": "ETL_SERVICE_USER",
+  "warehouse": "ETL_WH",
+  "database": "ETL_DB",
+  "schema": "ETL_SCHEMA",
+  "role": "ETL_SERVICE_ROLE"
+}
+
